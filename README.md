@@ -3,4 +3,4 @@ The example codes and descriptions of my Python exercise projects are stored her
 
 ## Contents:
  1. Projects
-    - Example1
+    - database_project
